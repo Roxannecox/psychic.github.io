@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* big black div */
+.black{
+    width: 95%;
+    height: 100%;
+    margin: auto;
+    background-color: #111111;
+}
+/* big black div ends */
+
+/* nav bar */
+.top{
+    width: 80%;
+    height: 22vh;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+}
+.box{
+    background-color: #e31e3c;
+    width: 3%;
+    height: 35px;
+}
+.ork{
+    text-decoration: none;
+    color: #fefefe;
+    font-size: 22px;
+    font-weight: 700;
+}
+.ork:active{
+    color: #fefefe;
+}
+.ork:hover{
+    color: #e31e3c;
+}
+/* nav bar ends */
+  
+/* 1st div */
+.agency{
+    width: 80%;
+    height: 350px;
+    margin: auto;
+    color: #fefefe;
+    font-size: 60px;
+    padding-top: 30px;
+}
+/* 1st div ends */
+
+/* 2nd div */
+.pic{
+    width: 93%;
+    height: 100%;
+    margin: auto;
+}
+.mire{
+    border-radius: 3px;
+}
+.move{
+    margin-top: -4px;
+    border-radius: 3px;
+}
+/* 2nd div ends */
+
+/* 3rd div */
+.twin{
+    width: 80%;
+    height: 720px;
+    margin: auto;
+    color: #fefefe;
+}
+.vanilli{
+    font-size: 72px;
+    padding-top: 130px;
+}
+.brand{
+    font-size: 39px;
+    padding-top: 70px;
+}
+/* 3rd div ends */
+
+/* 4th div */
+.client{
+    width: 80%;
+    height: 620px;
+    margin: auto;
+    border-top: 1px solid #858585;
+    border-bottom: 1px solid #858585;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.lent{
+    font-size: 22px;
+    color: #858585;
+    text-decoration: none;
+}
+.lent:active{
+    color: #858585;
+}
+.lent:hover{
+    color: #e31e3c;
+}
+.cedar{
+    color: #fefefe;
+    line-height: 1.2cm; 
+    display: flex;
+    flex-direction: column;
+}
+.nai{
+    margin-left: 250px;
+}
+.new{
+    padding-right: 60px;
+}
+.fox{
+    text-decoration: none;
+    font-size: 23px;
+    color: #fefefe;
+}
+.fox:active{
+    color: #fefefe;
+}
+.fox:hover{
+    color: #e31e3c;
+}
+/* 4th div ends */
+
+/* 5th div */
+.five{
+    width: 80%;
+    height: 420px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+}
+.let{
+    font-size: 70px;
+    color: #fefefe;
+}
+.lite{
+    color: #e31e3c;
+}
+.linc{
+    padding-top: 60px;
+}
+.icon{
+    width: 15%;
+    color: #fefefe;
+    text-decoration: none;
+    display: inline-block;
+    margin: auto;
+    font-size: 23px;
+}
+.mob{
+    color: #858585;
+    text-decoration: none;
+    display: inline-block;
+    margin: 30px 20px 0 0;
+    font-size: 19px;
+}
+/* 5th div ends */
+
+/* footer */
+footer{
+    width: 90%;
+    height: 11vh;
+    margin: auto;
+    background-color: #e31e3c;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.pro{
+    padding-left: 120px;
+}
+.wok{
+    padding-right: 120px;
+}
+.app{
+    text-decoration: none;
+    color: #fefefe;
+    font-size: 24px;
+    font-weight: 700;
+}
+.than{
+    padding-left: 10px;
+}
